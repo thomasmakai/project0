@@ -230,6 +230,7 @@ section {
   float:left;
   padding-bottom:50px;
     padding-left: 300px;
+    
 }
 
 small {
@@ -242,6 +243,8 @@ hr {
   height:1px;
   margin:0 0 20px;
 }
+
+} 
 
 footer {
   width:270px;
